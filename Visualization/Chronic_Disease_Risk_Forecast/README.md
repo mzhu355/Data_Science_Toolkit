@@ -9,5 +9,5 @@ Since we used Tableau to create the interactive map as a dashboard, users are re
 ### EXECUTION: 
 The Dashboard depicts the United States as a heatmap. At the right hand side, there are checkboxes for "Types" (i.e. incidence, mortality, or both). Users can select either or both to view the data on the heatmap. There is also a "Topic" pane that includes the different ailments the CDC has recorded.  Users can click on one or more (or all) topics to view the heatmap change in incidence/mortality for the selected illness(es).  Below the "Topic" pane, there is a "Question" dropbox.  The CDC groups topics by questions, which users can select.  Below that is a slider for year.  Users can change the years used in the data.  At the bottom of the right hand pane is a legend for the heatmap, where darker colors reveal more prevalence in a certain state.  On the heatmap itself, hovering over a state will show a line chart corresponding to the selected illness and state, as well as display numbers for population, predicted number for next year according to they Grey model, and number of hospitals.  The next year is also predicted using Grey Prediction. To reset to view another type/topic/question, select "All" for all three before changing to the next expected view.
 
-### Acknowledgement
+### ACKNOWLEDGEMENT:
 Credits to Yang Lu, Haijiao Tao, Maggie Xia, Jinglin Xu.
