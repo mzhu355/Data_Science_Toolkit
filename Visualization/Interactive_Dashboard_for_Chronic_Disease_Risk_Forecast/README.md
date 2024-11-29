@@ -1,5 +1,7 @@
 ## Project Title: Interactive Dashboard for Chronic Disease Risk Forecast
 
+This is a course project for "CSE 6242: Data and Visual Analytics" at Georgia Institute of Technology.
+
 ### Description: 
 This project introduces an interactive map developed to visualize the spread and effects of chronic diseases across the United States. Our tool highlights areas with significant disease prevalence and mortality, offering users—including public health enthusiasts, government agencies, and policymakers—the ability to explore detailed information on state-level trends, demographics, and forecasts. The project aims to support informed decision-making in healthcare resource allocation, planning, and prevention strategies.
 
