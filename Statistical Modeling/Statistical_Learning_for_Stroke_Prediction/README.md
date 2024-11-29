@@ -1,3 +1,4 @@
+### Description:
 This is a course project for "SC324: Statistical Learning in Data Science" at Colby College
 
 ### Acknowledgement:
